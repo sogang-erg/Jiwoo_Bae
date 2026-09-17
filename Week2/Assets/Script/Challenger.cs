@@ -1,5 +1,7 @@
 using UnityEngine;
 
+using UnityEngine;
+
 public class Challenger : MonoBehaviour
 {
     public string playerName = "Challenger";
@@ -15,16 +17,32 @@ public class Challenger : MonoBehaviour
 
     void Update()
     {
-        float h = Input.GetAxis("Horizontal");
-        float v = Input.GetAxis("Vertical");
 
-        Vector3 moveDir = new Vector3(-h, 0, -v);
-        transform.position += moveDir * moveSpeed * Time.deltaTime;
+        Vector3 moveDir = Vector3.zero;
 
+        if (Input.GetKey(KeyCode.W))
+        {
+            moveDir += Vector3.forward;
+        }
+        if (Input.GetKey(KeyCode.A))
+        {
+            moveDir += Vector3.left;
+        }
+        if (Input.GetKey(KeyCode.S))
+        {
+            moveDir += Vector3.back;
+        }
+        if (Input.GetKey(KeyCode.D))
+        {
+            moveDir += Vector3.right;
+        }
 
         if (moveDir != Vector3.zero)
         {
-            transform.LookAt(transform.position + moveDir);
+            Vector3 finalDir = moveDir.normalized;
+            transform.position += finalDir * moveSpeed * Time.deltaTime;
+
+            transform.LookAt(transform.position + finalDir);
 
             if (anim != null)
             {
