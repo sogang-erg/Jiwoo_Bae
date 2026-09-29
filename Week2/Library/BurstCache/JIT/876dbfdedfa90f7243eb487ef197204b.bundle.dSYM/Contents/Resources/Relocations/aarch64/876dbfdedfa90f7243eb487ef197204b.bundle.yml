@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Temp/Burst/burst-aotifsoczq1.p1d/876dbfdedfa90f7243eb487ef197204b.bundle"
+binary-path:     "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Temp/Burst/burst-aotjkgcp3dl.ayi/876dbfdedfa90f7243eb487ef197204b.bundle"
 relocations:
   - { offset: 0x1E, size: 0x8, addend: 0x0, symName: '_Unity.Jobs.IJobParallelForBatchExtensions.JobParallelForBatchProducer`1<UnityEngine.Rendering.CompactVisibilityMasksJob>.Execute(ref UnityEngine.Rendering.CompactVisibilityMasksJob jobData, System.IntPtr additionalPtr, System.IntPtr bufferRangePatchData, ref Unity.Jobs.LowLevel.Unsafe.JobRanges ranges, int jobIndex) -> void_1a317cc58a5a83457e54d5cbf71b217c from Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x70, symBinAddr: 0x5C8, symSize: 0x414 }
   - { offset: 0x43, size: 0x8, addend: 0x0, symName: '_Unity.Jobs.IJobParallelForBatchExtensions.JobParallelForBatchProducer`1<UnityEngine.Rendering.CompactVisibilityMasksJob>.Execute(ref UnityEngine.Rendering.CompactVisibilityMasksJob jobData, System.IntPtr additionalPtr, System.IntPtr bufferRangePatchData, ref Unity.Jobs.LowLevel.Unsafe.JobRanges ranges, int jobIndex) -> void_1a317cc58a5a83457e54d5cbf71b217c from Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x70, symBinAddr: 0x5C8, symSize: 0x414 }

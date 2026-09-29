@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Temp/Burst/burst-aotabsn22ey.szk/09e7f1d32c574403372290cb9322037d.bundle"
+binary-path:     "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Temp/Burst/burst-aotqzfunotb.hcz/09e7f1d32c574403372290cb9322037d.bundle"
 relocations:
   - { offset: 0x1E, size: 0x8, addend: 0x0, symName: '_Unity.Jobs.IJobForExtensions.ForJobStruct`1<UnityEngine.Rendering.Universal.TilingJob>.Execute(ref UnityEngine.Rendering.Universal.TilingJob jobData, System.IntPtr additionalPtr, System.IntPtr bufferRangePatchData, ref Unity.Jobs.LowLevel.Unsafe.JobRanges ranges, int jobIndex) -> void_1a317cc58a5a83457e54d5cbf71b217c from UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x160, symBinAddr: 0x6B8, symSize: 0x1EC }
   - { offset: 0x43, size: 0x8, addend: 0x0, symName: '_Unity.Jobs.IJobForExtensions.ForJobStruct`1<UnityEngine.Rendering.Universal.TilingJob>.Execute(ref UnityEngine.Rendering.Universal.TilingJob jobData, System.IntPtr additionalPtr, System.IntPtr bufferRangePatchData, ref Unity.Jobs.LowLevel.Unsafe.JobRanges ranges, int jobIndex) -> void_1a317cc58a5a83457e54d5cbf71b217c from UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x160, symBinAddr: 0x6B8, symSize: 0x1EC }

@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Temp/Burst/burst-aotdu2byrha.wae/39f6fb923091275f0b1c0ad13e992321.bundle"
+binary-path:     "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Temp/Burst/burst-aotxydng2fu.btt/39f6fb923091275f0b1c0ad13e992321.bundle"
 relocations:
   - { offset: 0x1E, size: 0x8, addend: 0x0, symName: '_Unity.Collections.AllocatorManager, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.Try(Unity.Collections.AllocatorManager+Block&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null block) -> System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089_39ba9bd07d8e001bea7b71e6f1bf0e97 from Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x214, symBinAddr: 0x76C, symSize: 0x130 }
   - { offset: 0x85, size: 0x8, addend: 0x0, symName: '_Unity.Collections.AllocatorManager, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.Try(Unity.Collections.AllocatorManager+Block&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null block) -> System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089_39ba9bd07d8e001bea7b71e6f1bf0e97 from Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x214, symBinAddr: 0x76C, symSize: 0x130 }
