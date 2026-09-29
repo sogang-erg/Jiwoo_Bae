@@ -1,0 +1,7 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Temp/Burst/burst-aotvqizg5xw.vr0/668eb73de831be0d6179642bbff82b82.bundle"
+relocations:
+  - { offset: 0x1E, size: 0x8, addend: 0x0, symName: '_Unity.InferenceEngine.CPUBackend.ConvJob.CanUseDepthwiseConvKernel(Unity.InferenceEngine.CPUBackend.ConvJob* job) -> bool_18afb3a36f9d25eb3f053557a100dcad from Unity.InferenceEngine, Version=2.6.1.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x54, symBinAddr: 0x55C, symSize: 0xA0 }
+  - { offset: 0x37, size: 0x8, addend: 0x0, symName: '_Unity.InferenceEngine.CPUBackend.ConvJob.CanUseDepthwiseConvKernel(Unity.InferenceEngine.CPUBackend.ConvJob* job) -> bool_18afb3a36f9d25eb3f053557a100dcad from Unity.InferenceEngine, Version=2.6.1.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x54, symBinAddr: 0x55C, symSize: 0xA0 }
+...

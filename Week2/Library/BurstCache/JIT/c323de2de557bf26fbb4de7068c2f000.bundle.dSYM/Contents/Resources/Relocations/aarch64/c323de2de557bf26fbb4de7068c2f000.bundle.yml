@@ -1,0 +1,7 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Temp/Burst/burst-aotfktm3ljt.5d5/c323de2de557bf26fbb4de7068c2f000.bundle"
+relocations:
+  - { offset: 0x1E, size: 0x8, addend: 0x0, symName: '_Unity.Jobs.IJobParallelForExtensions.ParallelForJobStruct`1<Unity.InferenceEngine.CPUBackend.GlobalAverageVariancePoolJob>.Execute(ref Unity.InferenceEngine.CPUBackend.GlobalAverageVariancePoolJob jobData, System.IntPtr additionalPtr, System.IntPtr bufferRangePatchData, ref Unity.Jobs.LowLevel.Unsafe.JobRanges ranges, int jobIndex) -> void_a9f80059d5e8889c4f5d2c687e3b212c from UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x70, symBinAddr: 0x578, symSize: 0x294 }
+  - { offset: 0x3D, size: 0x8, addend: 0x0, symName: '_Unity.Jobs.IJobParallelForExtensions.ParallelForJobStruct`1<Unity.InferenceEngine.CPUBackend.GlobalAverageVariancePoolJob>.Execute(ref Unity.InferenceEngine.CPUBackend.GlobalAverageVariancePoolJob jobData, System.IntPtr additionalPtr, System.IntPtr bufferRangePatchData, ref Unity.Jobs.LowLevel.Unsafe.JobRanges ranges, int jobIndex) -> void_a9f80059d5e8889c4f5d2c687e3b212c from UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x70, symBinAddr: 0x578, symSize: 0x294 }
+...

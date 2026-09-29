@@ -9,6 +9,26 @@
     "/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.unity.ai.assistant@2.20.0-pre.1": {
+      "name": "com.unity.ai.assistant",
+      "displayName": "Assistant",
+      "resolvedPath": "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Library/PackageCache/com.unity.ai.assistant@ceb45b7b3ebd",
+      "fingerprint": "ceb45b7b3ebd1a2ac00650fabec7e70350219fcc",
+      "editorCompatibility": "6000.0.60f1",
+      "version": "2.20.0-pre.1",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ai.inference@2.6.1": {
+      "name": "com.unity.ai.inference",
+      "displayName": "Sentis",
+      "resolvedPath": "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Library/PackageCache/com.unity.ai.inference@9a123aee5df7",
+      "fingerprint": "9a123aee5df7bf5c7b84e4fb3d46470e013f6a36",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "2.6.1",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.ai.navigation@2.0.14": {
       "name": "com.unity.ai.navigation",
       "displayName": "AI Navigation",
@@ -445,6 +465,72 @@
       "source": "builtin",
       "testable": false
     },
+    "com.unity.burst@2.0.0": {
+      "name": "com.unity.burst",
+      "displayName": "Burst",
+      "resolvedPath": "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Library/PackageCache/com.unity.burst@626e66ab421b",
+      "fingerprint": "626e66ab421bf31cfa602bb20675290e2a514b01",
+      "version": "2.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.dt.app-ui@2.1.11": {
+      "name": "com.unity.dt.app-ui",
+      "displayName": "App UI",
+      "resolvedPath": "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Library/PackageCache/com.unity.dt.app-ui@cd5609b130ce",
+      "fingerprint": "cd5609b130ce12f7cde8057a06fd6af6db9e52cf",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "2.1.11",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.collections@6.6.0": {
+      "name": "com.unity.collections",
+      "displayName": "Collections",
+      "resolvedPath": "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Library/PackageCache/com.unity.collections@10fff0607388",
+      "fingerprint": "10fff0607388aeb98b314cf1183d493c1e67b9ef",
+      "version": "6.6.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.nuget.newtonsoft-json@3.2.2": {
+      "name": "com.unity.nuget.newtonsoft-json",
+      "displayName": "Newtonsoft Json",
+      "resolvedPath": "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Library/PackageCache/com.unity.nuget.newtonsoft-json@4dfd81071c64",
+      "fingerprint": "4dfd81071c6475bb9c114f920bfb4e3fc5e28c6a",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "3.2.2",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "displayName": "2D Sprite",
+      "resolvedPath": "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Library/PackageCache/com.unity.2d.sprite@947350d67f82",
+      "fingerprint": "947350d67f82d1927c325424cc1faf81356669a5",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.mathematics@1.4.0": {
+      "name": "com.unity.mathematics",
+      "displayName": "Mathematics",
+      "resolvedPath": "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Library/PackageCache/com.unity.mathematics@8306a64d0cd6",
+      "fingerprint": "8306a64d0cd683e2e50ce0d909c1f82e70f75669",
+      "version": "1.4.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.nuget.mono-cecil@1.11.6": {
+      "name": "com.unity.nuget.mono-cecil",
+      "displayName": "Mono Cecil",
+      "resolvedPath": "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff",
+      "fingerprint": "ecb9724e46fff855c46a4f37f0a3377a3cfffc06",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "1.11.6",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.searcher@4.9.5": {
       "name": "com.unity.searcher",
       "displayName": "Searcher",
@@ -464,24 +550,6 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.burst@2.0.0": {
-      "name": "com.unity.burst",
-      "displayName": "Burst",
-      "resolvedPath": "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Library/PackageCache/com.unity.burst@626e66ab421b",
-      "fingerprint": "626e66ab421bf31cfa602bb20675290e2a514b01",
-      "version": "2.0.0",
-      "source": "builtin",
-      "testable": false
-    },
-    "com.unity.collections@6.6.0": {
-      "name": "com.unity.collections",
-      "displayName": "Collections",
-      "resolvedPath": "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Library/PackageCache/com.unity.collections@10fff0607388",
-      "fingerprint": "10fff0607388aeb98b314cf1183d493c1e67b9ef",
-      "version": "6.6.0",
-      "source": "builtin",
-      "testable": false
-    },
     "com.unity.profiling.core@1.0.3": {
       "name": "com.unity.profiling.core",
       "displayName": "Unity Profiling Core API",
@@ -489,16 +557,6 @@
       "fingerprint": "8a49f7027d0618e2cb86aa9e4ed5fb4392e8121a",
       "editorCompatibility": "2020.1.0a1",
       "version": "1.0.3",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.nuget.mono-cecil@1.11.6": {
-      "name": "com.unity.nuget.mono-cecil",
-      "displayName": "Mono Cecil",
-      "resolvedPath": "/Users/baejiwoo/Library/CloudStorage/OneDrive-개인/문서/Github/Jiwoo_Bae/Week2/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff",
-      "fingerprint": "ecb9724e46fff855c46a4f37f0a3377a3cfffc06",
-      "editorCompatibility": "2019.4.0a1",
-      "version": "1.11.6",
       "source": "registry",
       "testable": false
     },
